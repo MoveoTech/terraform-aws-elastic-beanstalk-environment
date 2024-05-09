@@ -436,7 +436,7 @@ variable "alb_zone_id" {
     sa-east-1      = "Z10X7K2B4QSOFV"
     us-gov-west-1  = "Z31GFT0UA1I2HV"
     us-gov-east-1  = "Z2NIFVYYW2VKV1"
-    il-center-1    = "Z02941091PERNCB1MI5H7" //ZM6FZL7U9B5RK"
+    il-central-1   = "Z02941091PERNCB1MI5H7" //ZM6FZL7U9B5RK"
   }
 
   description = "ALB zone id"
